@@ -1,4 +1,4 @@
-const asyncHandler = require("ezpress-async-handler");
+const asyncHandler = require("express-async-handler");
 // give labels for contact form fields
 // @desc Get all contacts
 // @route GET /
